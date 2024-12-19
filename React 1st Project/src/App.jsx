@@ -9,9 +9,9 @@ let AddValue = ()=>{
   counter+=1
   console.log(counter)
 }
+
+
 function App() {
-
-
   return (
     <>
     <h1>Counter: {counter}</h1>
